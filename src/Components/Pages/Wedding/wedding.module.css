@@ -1,0 +1,14 @@
+/* ComponentName.module.css */
+.contianer{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+} 
+
+.Red {
+  color: #f00;
+}
+
+.Blue {
+  color: #00f;
+}
